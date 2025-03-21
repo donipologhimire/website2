@@ -76,6 +76,7 @@ My research focuses on robotics and multi-agent systems, specifically:
   - Focus: Active source seeking and exploration algorithms for search-and-rescue
 - ***Fall 2022***: Visiting Researcher at <a href='https://www.jpl.nasa.gov/'>NASA Jet Propulsion Laboratory</a>
   - Focus: Perception and motion planning for robotic exploration
+- Master in Mechanical and Aerospace Engineering from UC Irvine (2022)
 - BSc in Mechanical Engineering from Howard University (2019)
 
 
